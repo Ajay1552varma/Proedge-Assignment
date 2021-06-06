@@ -1,3 +1,0 @@
-git commands practice
-i am going to change gitcmd file
-Another changes
